@@ -1,6 +1,0 @@
-<html>
-  <head></head>
-  <body>
-    <h1>20161026早上吃了烧麦!</h1>
-  </body>
-</html>
